@@ -10,4 +10,4 @@ jobs:
           command: echo Hello, world.
       - run:
           name: Print the Current Time
-          command: stillunprotected
+          command: argxmil
