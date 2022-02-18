@@ -26,7 +26,7 @@
   "homepage": "https://github.com/mazyvan/circle-ci-integration#readme",
   "dependencies": {
     "chai": "^4.1.2",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "supertest": "^3.0.0"
   },
   "devDependencies": {
